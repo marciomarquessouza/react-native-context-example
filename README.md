@@ -8,10 +8,10 @@
 
 **Step 1:** clone my repo & cd into project
 
-**Step 2:** install node modules
+**Step 2:** install node modules (using yarn)
 
 ```
-npm install
+yarn
 ```
 
 *Before run android build, setup [Android Studio](https://facebook.github.io/react-native/docs/android-setup.html)*
@@ -19,7 +19,7 @@ npm install
 **Step 3:** If Android
 
 ```
-react-native run-android
+yarn android
 ```
 
 *Before running iOS build, Install [Xcode](https://developer.apple.com/xcode/download/)*
@@ -27,7 +27,7 @@ react-native run-android
 **Step 4:** If iOS
 
 ```
-react-native run-ios
+yarn ios
 ```
 
 That's all
