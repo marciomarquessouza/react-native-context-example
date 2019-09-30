@@ -1,6 +1,7 @@
 # React Native - Using Context
 
-*Before Redux, I will try to use React Context.*
+*A simple React Native blog using React Context instead Redux.*
+![App Structure Diagram](https://github.com/marciomarquessouza/react-native-context-example/blob/master/assets/diagram.png)
 
 
 ## Installation
